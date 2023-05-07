@@ -71,6 +71,8 @@ HTML                     2 repos             █████░░░░░░�
  Last Updated on 07/05/2023 12:50:10 UTC
 <!--END_SECTION:waka-->
 
+![alchogh's GitHub stats](https://github-readme-stats.vercel.app/api?username=alchogh&show_icons=true&theme=dracula)
+
 
 
 
