@@ -1,7 +1,12 @@
 
-![alchogh's GitHub stats](https://github-readme-stats.vercel.app/api?username=alchogh&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchogh&layout=compact&theme=tokyonight)
+<div align="center">
+   <p display="inline">
+    <a href="https://github.com/alchogh">
+     <img height="180" src=https://github-readme-stats.vercel.app/api?username=alchogh&theme=dracula&show_icons=true" />
+     <img width="386" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alchogh&layout=compact&theme=tokyonight" />
+    </a>
+  </p>
 
 ## Skills
 
