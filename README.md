@@ -1,10 +1,10 @@
 
 
-<div align="center">
+
    <p display="inline">
     <a href="https://github.com/alchogh">
-     <img height="180" src=https://github-readme-stats.vercel.app/api?username=alchogh&theme=dracula&show_icons=true" />
-     <img width="386" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alchogh&layout=compact&theme=tokyonight" />
+     <img height="180" src=https://github-readme-stats.vercel.app/api?username=alchogh&theme=vue&show_icons=true" />
+     <img width="386" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alchogh&layout=compact&theme=vue" />
     </a>
   </p>
 
