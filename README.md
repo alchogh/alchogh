@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/styled--components-8D5078?style=flat&logo=styled-components&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Apollo--GraphQL-311C87?style=flat&logo=apollo-graphQL&logoColor=white"/>
+  
 </div>
 
 |JavaScript|TypeScript|React|Sass|
@@ -24,6 +24,7 @@
 </div>
 
 
+## Waka
 
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2053%20mins-blue)
