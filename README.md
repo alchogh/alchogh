@@ -10,37 +10,32 @@
 
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2053%20mins-blue)
 
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
 
+```text
+🕑︎ Timezone: Asia/Seoul
 
-<!--
-**alchogh/alchogh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 프로그래밍 언어들: 
+JavaScript               24 hrs 9 mins       █████████████████████████   98.01 % 
+JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+```
 
-Here are some ideas to get you started:
+**저는 주로 JavaScript 언어를 사용해요.** 
 
-
-
-
-
-
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+JavaScript               8 repos             ████████████████████░░░░░   80.00 % 
+HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
 
 
 
 
-![alchogh's GitHub stats](https://github-readme-stats.vercel.app/api?username=alchogh&theme=prussian&show_icons=true)
-
-<!--START_SECTION:waka-->
+ Last Updated on 07/05/2023 12:16:31 UTC
 <!--END_SECTION:waka-->
 
 
