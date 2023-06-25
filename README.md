@@ -34,7 +34,7 @@
 ## Waka
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2026%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -63,7 +63,8 @@ Sunday                   44 commits          ███████████�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               4 mins              █████████████████████████   100.00 % 
+JavaScript               7 mins              █████████████████████████   99.80 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +79,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2023 18:40:35 UTC
+ Last Updated on 25/06/2023 18:40:48 UTC
 <!--END_SECTION:waka-->
 
 
