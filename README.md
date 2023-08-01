@@ -6,7 +6,7 @@
 
    <p display="inline">
     <a href="https://github.com/alchogh">
-     <img height="180" src=https://github-readme-stats.vercel.app/api?username=alchogh&theme=vue&show_icons=true&contribs&count_private=true />
+     <img height="180" src=https://[github-readme-stats.vercel.app](https://github.com/anuraghazra/github-readme-stats)/api?username=alchogh&theme=vue&show_icons=true&contribs&count_private=true />
      <img width="386" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alchogh&layout=compact&theme=vue" />
     </a>
   </p>
