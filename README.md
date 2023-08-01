@@ -5,7 +5,7 @@
 
    <p display="inline">
     <a href="https://github.com/alchogh">
-       ![Geonoooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alchogh&show_icons=true&theme=vue&show)
+       <img![Geonoooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alchogh&show_icons=true&theme=vue&show/>
      <img height="180" src=https://github-readme-stats.vercel.app/api?username=alchogh&theme=vue&show_icons=true" />
      <img width="386" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alchogh&layout=compact&theme=vue" />
     </a>
