@@ -3,6 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Geonoooo's+GitHub!👋)](https://git.io/typing-svg)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alchogh)](https://git.io/streak-stats)
+
+
+
 ## Skills
 
 <div>
@@ -20,9 +24,7 @@
 | <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /></div> |
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alchogh)](https://git.io/streak-stats)
 
-[![Geonooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alchogh)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tool
 <div>
