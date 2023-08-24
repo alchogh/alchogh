@@ -15,7 +15,7 @@ Marketit Inc. internship
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchogh&layout=compact)](https://github.com/alchogh/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alchogh)](https://git.io/streak-stats)
 
