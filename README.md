@@ -13,7 +13,7 @@ FrontEnd Developer
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alchogh)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alchogh&theme=dark)](https://git.io/streak-stats)
 
 
 
