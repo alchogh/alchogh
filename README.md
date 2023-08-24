@@ -20,6 +20,8 @@
 | <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /></div> |
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alchogh)](https://git.io/streak-stats)
+
 ## Tool
 <div>
 <img src="https://img.shields.io/badge/vsCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
