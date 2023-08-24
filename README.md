@@ -8,8 +8,13 @@
 **2023.04 -**  
 FrontEnd Developer
 
+**2023.04 - 2023.06**
+Wecode Front-end Engineering Course
 
-----
+**2023.05 - 2023.06**
+Marketit internship
+
+
 
 
 
