@@ -15,7 +15,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=alchogh)](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=alchogh)](https://solved.ac/alchogh)
 
 |JavaScript|TypeScript|React|Sass| 
 | :--: | :--: | :--: | :--: |
