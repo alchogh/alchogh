@@ -8,13 +8,13 @@
 **2023.04 -**  
 FrontEnd Developer
 
-**2023.04 - 2023.06**
-Wecode Front-end Engineering Course
+위코드 44기 수료
 
 **2023.05 - 2023.06**
-Marketit internship
+마켓잇 기업협업
 
 
+---
 
 
 
