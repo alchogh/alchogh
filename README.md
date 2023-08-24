@@ -21,7 +21,9 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alchogh)](https://git.io/streak-stats)
+
 [![Geonooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alchogh)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tool
 <div>
 <img src="https://img.shields.io/badge/vsCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
