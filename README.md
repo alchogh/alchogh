@@ -8,6 +8,8 @@
 
 🔎 Wecode 44 Engineering course
 
+
+
 **2023.05 - 2023.06**
 
 🧣 Marketit Inc. internship
