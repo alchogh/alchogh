@@ -14,7 +14,9 @@
 
 🧣 Marketit Inc. internship
 
+**2023. 09 -**
 
+🧣 Hankook Cloud Inc. 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchogh&layout=donut)](https://github.com/alchogh/github-readme-stats) 
