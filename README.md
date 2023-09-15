@@ -53,7 +53,7 @@
 ## Waka
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2036%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -82,7 +82,8 @@ Sunday                   65 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 min               ████████████████████░░░░░   78.46 % 
+JavaScript               0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,7 +98,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2023 18:38:28 UTC
+ Last Updated on 15/09/2023 18:38:34 UTC
 <!--END_SECTION:waka-->
 
 
