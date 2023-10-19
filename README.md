@@ -82,7 +82,7 @@ Sunday                   65 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,7 +97,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2023 18:40:10 UTC
+ Last Updated on 19/10/2023 18:39:33 UTC
 <!--END_SECTION:waka-->
 
 
