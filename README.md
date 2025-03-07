@@ -18,6 +18,10 @@
 
 🧣 Hankook Cloud Inc. 
 
+**2024. 09 -**
+
+🧣 LoudAI  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchogh&layout=donut)](https://github.com/alchogh/github-readme-stats) 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alchogh)](https://git.io/streak-stats)
