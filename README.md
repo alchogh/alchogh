@@ -30,43 +30,27 @@
 🧣 Namutech 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchogh&layout=donut)](https://github.com/alchogh/github-readme-stats) 
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alchogh)](https://git.io/streak-stats)
+
+
+
 
 
 
 ## Skills
 
-<div>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/styled--components-8D5078?style=flat&logo=styled-components&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
-</div>
+### 📚 Core & Frameworks
+| JavaScript | TypeScript | React | Next.js | NestJS |
+| :--: | :--: | :--: | :--: | :--: |
+| <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" /> | <img src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="65" height="65" /> |
 
+### 🎨 Styling
+| Tailwind CSS | Sass | Styled-Components |
+| :--: | :--: | :--: |
+| <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://skillicons.dev/icons?i=styledcomponents" alt="icon" width="65" height="65" /> |
 
-
-|JavaScript|TypeScript|React|Sass| 
-| :--: | :--: | :--: | :--: |
-| <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /></div> |
-
-
-
-
-## Tool
-<div>
-<img src="https://img.shields.io/badge/vsCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-</div>
-
-
-
-
-
-
-
-
-
-
-
+### ⚙️ Infrastructure & Tool
+| GCP |
+| :--: |
+| <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="65" height="65" /> |
