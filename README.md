@@ -17,13 +17,17 @@
 
 🧣 Marketit Inc. internship
 
-**2023. 09 -**
+**2023.09 - 2024.09**
 
 🧣 Hankook Cloud Inc. 
 
-**2024. 09 -**
+**2024.09 - 2025.05 -**
 
 🧣 LoudAI  
+
+**2025.09 -**
+
+🧣 Namutech 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchogh&layout=donut)](https://github.com/alchogh/github-readme-stats) 
